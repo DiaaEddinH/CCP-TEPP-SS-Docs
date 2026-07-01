@@ -1,0 +1,11 @@
+[workspace]
+authors = ["DiaaEddinH <diaaeddinh@gmail.com>"]
+channels = ["conda-forge"]
+name = "CCP-TEPP-SS-Docs"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+doxygen = ">=1.17.0,<2"
