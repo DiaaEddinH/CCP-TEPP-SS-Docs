@@ -9,3 +9,5 @@ version = "0.1.0"
 
 [dependencies]
 doxygen = ">=1.17.0,<2"
+sphinx = ">=9.1.0,<10"
+myst-parser = ">=5.1.0,<6"
